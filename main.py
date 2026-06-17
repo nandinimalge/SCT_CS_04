@@ -15,7 +15,7 @@ def write_to_file(key, update_ui_callback):
    
 
     if(letter == "Key.enter"):
-        letter = " [ Enter] " 
+        letter = " [Enter] " 
     
     if(letter == "Key.space"):
         letter = " "
