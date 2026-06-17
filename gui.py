@@ -20,3 +20,28 @@ count_label.pack()
 
 key_count = 0
 listener = None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+start_btn = Button(root, text="Start Capture", font=("Consolas", 16, "bold"), fg="black", bg="#39FF14", width=15, command=start_logging)
+start_btn.pack(pady=30)
+
+stop_btn = Button(root, text="Stop Capture", font=("Consolas", 16, "bold"), fg="black", bg="#39FF14", width=15, command=stop_logging)
+stop_btn.pack(pady=5)
+
+
+
+root.mainloop()
