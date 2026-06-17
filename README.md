@@ -1,4 +1,4 @@
-# Python Keylogger with Tkinter GUI
+# Basic Keylogger
 
 A simple Python-based Keylogger application with a graphical user interface (GUI) built using Tkinter. The application captures keyboard keystrokes, displays a live keystroke counter, and stores the logged keys in a text file.
 
