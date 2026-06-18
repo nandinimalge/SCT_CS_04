@@ -23,7 +23,6 @@ SCT_CS-04/
 │
 ├── main.py
 ├── gui.py
-├── log.txt
 ├── README.md
 └── .gitignore
 
